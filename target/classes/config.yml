@@ -1,5 +1,5 @@
 no perms: "&fУ вас нет прав на использование этой команды"
-successfully: "&fМаксимальный кровень игрока {player} был изменён на {maxLVL}"
+successfully: "&fМаксимальный уровень игрока {player} был изменён на {maxLVL}"
 on lvl up command: "say {player} hello world"
 
 enable-limitation: true
